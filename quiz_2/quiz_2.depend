@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1545758504 source:e:\lsbu\year 1\fsd\quiz_2\option.c
+	<stdio.h>
+
+1546117636 source:e:\lsbu\year 1\fsd\quiz_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1546102422 source:e:\lsbu\year 1\fsd\quiz_2\all.c
+	<stdio.h>
+	<stdlib.h>
+
+1546108306 source:e:\lsbu\year 1\fsd\quiz_2\code.c
+	<stdio.h>
+	<stdlib.h>
+
+1546113258 source:e:\lsbu\year 1\fsd\quiz_2\sports.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1546960766 source:d:\lsbu\year 1\fsd\c projects\quiz_2\all.c
+	<stdio.h>
+	<stdlib.h>
+
+1546961116 source:d:\lsbu\year 1\fsd\c projects\quiz_2\code.c
+	<stdio.h>
+	<stdlib.h>
+
+1546961132 source:d:\lsbu\year 1\fsd\c projects\quiz_2\help.c
+	<stdio.h>
+	<stdlib.h>
+
+1546960634 source:d:\lsbu\year 1\fsd\c projects\quiz_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1546959718 source:d:\lsbu\year 1\fsd\c projects\quiz_2\math.c
+	<stdio.h>
+	<stdlib.h>
+
+1546959252 source:d:\lsbu\year 1\fsd\c projects\quiz_2\menu.c
+	<stdio.h>
+	<stdlib.h>
+
+1546119292 source:d:\lsbu\year 1\fsd\c projects\quiz_2\sports.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
